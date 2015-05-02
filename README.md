@@ -1,6 +1,6 @@
 # Project Overview
 
-In this project I focused on writing following tests for a web-based application that reads RSS feeds. 
+In this project I focused on writing following tests for a web-based application that reads RSS feeds. Run index.html in your browser and see how Jasmine run tests that described below.
 
 
 
